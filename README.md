@@ -1,0 +1,1 @@
+This is a python script that moves cover letters in the downloads folder to another folder
